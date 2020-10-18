@@ -1,0 +1,38 @@
+.input{
+    background-color: #3D348B;
+    border: none;
+    width: 200px;
+    height: 35px;
+    margin: 20px;
+    font-size: 18px;
+    border-radius: 15px;
+    color: white;
+    outline: none;
+    padding: 10px;
+}
+.input::placeholder{
+    color: #00afb9;
+}
+
+.submit{
+    height: 50px;
+    width: 80px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+.noItem{
+    margin: 10% 20% ;
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+
+}
+
+.small{
+    color: rgba(30, 10, 45,0.5);
+}

@@ -1,0 +1,51 @@
+.list{
+    color: #FDFCDC;
+    width: 300px;
+     background-color: #1E212B;
+     height: 30px;
+     margin: 20px 15px ;
+     border-radius: 5px;
+   border-radius: 10px;
+   display: inline-block;
+}
+
+p{
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.remove{
+    margin: auto 5px;
+    width: 25px;
+    height: 30px;
+    background-color: transparent;
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-size: 25px;
+    outline: none;
+    float: right;
+    transition: 2s;
+}
+
+
+.editable{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+
+}
+
+.bullet{
+    margin: 2px 5px;
+    color: white;
+    font-weight: bolder;
+}
+
+.listArea{
+    justify-content: center;
+    align-items: center;
+}
